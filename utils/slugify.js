@@ -1,0 +1,1 @@
+exports.slugify =  (name)=> name.split(" ").join("-").toLowerCase() 
